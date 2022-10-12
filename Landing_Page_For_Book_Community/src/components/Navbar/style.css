@@ -1,0 +1,38 @@
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__logo {
+    width: 50px;
+}
+
+.nav__list {
+    display: flex;
+}
+
+.nav__list-item {
+    list-style-type: none;
+    margin: auto 50px;
+}
+
+.nav__list-item-link {
+    text-decoration: none;
+    color: #F5F5FF;
+}
+
+.nav__list-item:hover {
+    color: #ffffff;
+}
+
+.nav__list-btn {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 10px 24px;
+    color: #ffffff;
+}

@@ -1,0 +1,58 @@
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.page {
+    height: 682px;
+    padding: 100px 0;
+}
+
+.page__header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.page__header-title {
+    display: inline-block;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.page__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 200%;
+    color: #949494;
+}
+
+.page__card {
+    display: inline-block;
+    width: 596px;
+    height: 280px;
+    margin-top: 28px;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.page__cards {
+    display: flex;
+    width: 257px;
+    height: 80px;
+    margin: 44px 0;
+}
+
+.page__cards-box {
+    display: inline-block;
+    width: 272px;
+    height: 80px;
+    margin: 0 0 0 16px;
+    padding-top: 15px;
+}
+
+.page__two-card {
+    margin-left: 24px;
+    box-shadow: 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}

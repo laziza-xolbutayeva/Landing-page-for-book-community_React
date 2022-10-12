@@ -1,0 +1,51 @@
+.sponsor {
+    height: 576px;
+    padding: 100px;
+    text-align: center;
+}
+
+.sponsor__title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 200%;
+    color: #212121;
+}
+
+.sponsor__text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 200%;
+    color: #949494;
+    margin: 30px 0;
+}
+
+.sponsor__button {
+    position: relative;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px 60px 10px 24px;
+    height: 52px;
+    font-size: 16px;
+}
+
+.icon {
+    position: absolute;
+    top: 12px;
+    right: 15px;
+}
+
+.search {
+    background-color: #008F76;
+    color: #fff;
+}
+
+.group {
+    background-color: #fff;
+    color: #008F76;
+    border-color: #008F76;
+    margin-left: 24px;
+}
+
+.gratis__span {
+    color: #008F76;
+}

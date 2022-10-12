@@ -1,0 +1,78 @@
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.footer__body {
+    display: flex;
+    height: 320px;
+    padding-top: 100px;
+}
+
+.footer__logo {
+    width: 291px;
+}
+
+.footer__logo-frame {
+    display: inline-block;
+    position: relative;
+}
+
+.footer__logo-text {
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    font-weight: 500;
+}
+
+.footer__logo-icon {
+    margin: 50px 0;
+    display: flex;
+    width: 176px;
+    justify-content: space-between;
+}
+
+.footer__page {
+    width: 150px;
+    margin-left: 306px;
+}
+
+.footer__network-title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 200%;
+    margin: 4px auto;
+}
+
+.footer-page-- {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 200%;
+    color: #949494;
+    margin: 4px auto;
+}
+
+.footer__network {
+    width: 250px;
+    padding-left: 100px;
+}
+
+.footer__contact {
+    width: 250px;
+    padding-left: 100px;
+}
+
+.end {
+    height: 60px;
+    background: #008F76;
+}
+
+.end-footer {
+    padding-top: 12px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 200%;
+    text-align: center;
+    margin: 12px auto;
+    color: #fff;
+}

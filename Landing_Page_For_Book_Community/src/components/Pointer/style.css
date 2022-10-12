@@ -1,0 +1,33 @@
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.pointer {
+    display: flex;
+    height: 296px;
+    padding: 100px;
+}
+
+.pointer__box {
+    display: flex;
+    height: 96px;
+    width: 250px;
+    margin: 0 50px;
+}
+
+.pointer__box-title {
+    padding: 15px 0;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.pointer__box-text {
+    color: #949494;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.pointer__info {
+    padding-left: 16px;
+}
